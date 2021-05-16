@@ -23,3 +23,14 @@ Copie e cole o código do projeto que se encontra nesse repositório ou acesse o
 <p>
   Clique na aba do projeto com o botão do lado direito do cursor e selecione a opção "Run"
   
+##  Instruções de uso
+O programa se inicia em uma tela de Menu contendo as opções  de cadastro, relatório, busca e  encerramento da aplicação
+<p>
+  Cadastro: O cadastro é a opção 1 e permite o usuário cadastrar os anún. O usuário  irá informar o  nome do anúncio, nome do cliente,  o período em que irá investir, e o valor unitário aplicado diariamente 
+  <p>
+    Relatório: O relatório é a opção 2 e permite ao usuário listar os anúncios previamente cadas  
+< p >
+    Buscar: A busca é a opção 3 e permite ao usuário buscar o anúncio por meio do nome do cliente ou pelo período  de investimento
+  <p>
+    Sair: A última opção encerra a aplicação
+      
