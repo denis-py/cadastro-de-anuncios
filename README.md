@@ -34,6 +34,5 @@ O programa se inicia em uma tela de Menu contendo as opções  de cadastro, rela
       <p>
 Sair: A última opção encerra a aplicativo
         
-## Conclus
-
-O sistema criado prestará apoio a  agência Divulga Tudo e efetuará o gerenciamento de anúncios da empresa compreendendo os requisitos desejados da mesma
+## Conclusão
+O sistema criado prestará apoio a agência Divulga Tudo e efetuará o gerenciamento de anúncios da empresa compreendendo os requisitos desejados da mesma
