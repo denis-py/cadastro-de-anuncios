@@ -1,5 +1,5 @@
 # cadastro-de-anuncios
-Sistema criado para cadatro e relatório de anúncios
+Sistema criado para cadastro e relatório de anúncios
 
 ## Pré-requisitos
 
