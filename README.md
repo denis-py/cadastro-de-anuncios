@@ -28,9 +28,8 @@ O programa se inicia em uma tela de Menu contendo as opções  de cadastro, rela
 <p>
   Cadastro: O cadastro é a opção 1 e permite o usuário cadastrar os anún. O usuário  irá informar o  nome do anúncio, nome do cliente,  o período em que irá investir, e o valor unitário aplicado diariamente 
   <p>
-    Relatório: O relatório é a opção 2 e permite ao usuário listar os anúncios previamente cadas  
-< p >
-    Buscar: A busca é a opção 3 e permite ao usuário buscar o anúncio por meio do nome do cliente ou pelo período  de investimento
-  <p>
-    Sair: A última opção encerra a aplicação
-      
+    Relatório: O relatório é a opção 2 e permite ao usuário listar os anúncios previamente cadastrados
+    <p>
+       Buscar: A busca é a opção 3 e permite ao usuário buscar o anúncio por meio do nome do cliente ou pelo período de investimento
+      <p>
+Sair: A última opção encerra a aplicativo
