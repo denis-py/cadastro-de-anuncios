@@ -33,3 +33,7 @@ O programa se inicia em uma tela de Menu contendo as opções  de cadastro, rela
        Buscar: A busca é a opção 3 e permite ao usuário buscar o anúncio por meio do nome do cliente ou pelo período de investimento
       <p>
 Sair: A última opção encerra a aplicativo
+        
+## Conclus
+
+O sistema criado prestará apoio a  agência Divulga Tudo e efetuará o gerenciamento de anúncios da empresa compreendendo os requisitos desejados da mesma
